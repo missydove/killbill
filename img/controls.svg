@@ -1,144 +1,196 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="120px"
-	 viewBox="0 0 300 120" style="enable-background:new 0 0 300 120;" xml:space="preserve">
-  <g id="controls">
-    <g id="play_pause" data-name="play/pause">
-      <g id="play">
-        <g id="Polygon">
-          <path d="M16.31,9.48a.56.56,0,0,1,0,1l-11.38,7c-.47.29-.85.07-.85-.48V3c0-.55.38-.77.85-.48Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        </g>
-      </g>
-    </g>
-    <g id="pause">
-      <g>
-        <rect x="23" y="1.01" width="4.2" height="16" rx="1" ry="1" style="fill: #fff"/>
-        <rect x="32.8" y="1.01" width="4.2" height="16" rx="1" ry="1" style="fill: #fff"/>
-      </g>
-    </g>
-    <g id="fullscreen">
-      <g id="enter">
-        <path d="M80.83,2.38a1,1,0,0,1,1-1h5.41c.55,0,.68.32.29.71l-6,6c-.39.39-.71.26-.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M80.83,18.17a1,1,0,0,0,1,1h5.41c.55,0,.68-.32.29-.71l-6-6c-.39-.39-.71-.26-.71.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M98.63,2.38a1,1,0,0,0-1-1H92.21c-.55,0-.68.32-.29.71l6,6c.39.39.71.26.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M98.63,18.17a1,1,0,0,1-1,1H92.21c-.55,0-.68-.32-.29-.71l6-6c.39-.39.71-.26.71.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      </g>
-    </g>
-    <g id="exit">
-      <g>
-        <path d="M112.53,6a1,1,0,0,0,1,1h4.1c.55,0,.68-.32.29-.71l-4.68-4.68c-.39-.39-.71-.26-.71.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M105.43,7a1,1,0,0,0,1-1V1.88c0-.55-.32-.68-.71-.29L101,6.27c-.39.39-.26.71.29.71Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M106.43,14.07a1,1,0,0,0-1-1h-4.1c-.55,0-.68.32-.29.71l4.68,4.68c.39.39.71.26.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M113.53,13.07a1,1,0,0,0-1,1v4.1c0,.55.32.68.71.29l4.68-4.68c.39-.39.26-.71-.29-.71Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      </g>
-    </g>
-    <g id="volume">
-      <path d="M66.8,6.77a3.51,3.51,0,0,1-1.8.6H61.85a1,1,0,0,0-1,1V14.1a1,1,0,0,0,1,1H65a6.28,6.28,0,0,1,1,0,8.5,8.5,0,0,0,.81.63l3.54,2.6c.44.33.81.14.81-.41V4.5c0-.55-.36-.73-.8-.4Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      <g id="volume-2" data-name="volume">
-        <g id="soundbars">
-          <path d="M73.72,3.5s3.95-.81,3.87,7.73S73.72,19,73.72,19" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 1.5px"/>
-          <path d="M72.43,7.38S75.06,7,75,11.23s-2.58,3.86-2.58,3.86" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 1.5px"/>
-        </g>
-      </g>
-    </g>
-    <g id="closed_captions" data-name="closed captions">
-      <path d="M128.53,9.58c-6.17-4.21-6.46,7.77,0,3.92" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff"/>
-      <path d="M135.06,9.58c-6.17-4.21-6.46,7.77,0,3.92" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff"/>
-      <path d="M122,4.35h15.69V17.43H122ZM120.68,3V18.73H139V3Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-    </g>
-    <g id="muted">
-      <path d="M46.8,6.77a3.51,3.51,0,0,1-1.8.6H41.85a1,1,0,0,0-1,1V14.1a1,1,0,0,0,1,1H45a6.28,6.28,0,0,1,1,0,8.5,8.5,0,0,0,.81.63l3.54,2.6c.44.33.81.14.81-.41V4.5c0-.55-.36-.73-.8-.4Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      <line x1="52.83" y1="6.98" x2="58.22" y2="12.36" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 2px"/>
-      <line x1="52.83" y1="12.36" x2="58.22" y2="6.98" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 2px"/>
-    </g>
-    <g id="skip_forward" data-name="skip forward">
-      <g id="play_pause-2" data-name="play/pause">
-        <g id="play-2" data-name="play">
-          <path id="Polygon-2" data-name="Polygon" d="M192,3.16l-4.33,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        </g>
-      </g>
-      <g id="play_pause-3" data-name="play/pause">
-        <g id="play-3" data-name="play">
-          <path id="Polygon-3" data-name="Polygon" d="M194.73,3.16,190.4,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        </g>
-      </g>
-      <path d="M189.83,3.16a8.15,8.15,0,0,0-8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M181.68,10.83A8.15,8.15,0,0,0,189.83,19" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M189.46,19a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-    </g>
-    <g id="skipback">
-      <path d="M162.52,10.65a8.15,8.15,0,0,0,8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M170.2,18.8a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M178.36,11a8.15,8.15,0,0,0-8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <g id="play_pause-4" data-name="play/pause">
-        <g id="play-4" data-name="play">
-          <path id="Polygon-4" data-name="Polygon" d="M166.42,3.16l4.32,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        </g>
-      </g>
-      <g id="play_pause-5" data-name="play/pause">
-        <g id="play-5" data-name="play">
-          <path id="Polygon-5" data-name="Polygon" d="M163.7,3.16,168,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        </g>
-      </g>
-    </g>
-    <g id="close_captions" data-name="close captions">
-      <rect x="141.17" y="3.01" width="18" height="14" rx="2" ry="2" style="fill: #fff"/>
-      <path d="M146.19,14.78a2.69,2.69,0,0,1-2.14-1A3.87,3.87,0,0,1,144.17,9c.51-.56,2-1.65,4.64.16l-.56.83c-1.43-1-2.62-1.09-3.34-.31a2.89,2.89,0,0,0-.08,3.47c.7.86,1.92.83,3.45-.08l.51.86A5.13,5.13,0,0,1,146.19,14.78Z" transform="translate(0.17 -0.99)" style="fill: #231f20"/>
-      <path d="M153.73,14.78a2.69,2.69,0,0,1-2.14-1A3.87,3.87,0,0,1,151.71,9c.51-.56,2-1.65,4.64.16l-.56.83c-1.43-1-2.62-1.09-3.34-.31a2.89,2.89,0,0,0-.08,3.47c.7.86,1.92.83,3.45-.08l.51.86A5.13,5.13,0,0,1,153.73,14.78Z" transform="translate(0.17 -0.99)" style="fill: #231f20"/>
-    </g>
-    <path d="M218.46,10.38a1.35,1.35,0,0,0-1-1.24l-1.85-.46a.7.7,0,0,1-.46-1.1l1-1.64A1.35,1.35,0,0,0,216,4.36h0a1.35,1.35,0,0,0-1.56-.19l-1.64,1a.7.7,0,0,1-1.1-.46l-.46-1.85a1.35,1.35,0,0,0-1.24-1h0a1.35,1.35,0,0,0-1.24,1l-.46,1.85a.7.7,0,0,1-1.1.46l-1.64-1a1.35,1.35,0,0,0-1.56.19h0a1.35,1.35,0,0,0-.19,1.56l1,1.64a.7.7,0,0,1-.46,1.1l-1.85.46a1.35,1.35,0,0,0-1,1.24h0a1.35,1.35,0,0,0,1,1.24l1.85.46a.7.7,0,0,1,.46,1.1l-1,1.64a1.35,1.35,0,0,0,.19,1.56h0a1.35,1.35,0,0,0,1.56.19l1.64-1a.7.7,0,0,1,1.1.46l.46,1.85a1.35,1.35,0,0,0,1.24,1h0a1.35,1.35,0,0,0,1.24-1l.46-1.85a.7.7,0,0,1,1.1-.46l1.64,1a1.35,1.35,0,0,0,1.56-.19h0a1.35,1.35,0,0,0,.19-1.56l-1-1.64a.7.7,0,0,1,.46-1.1l1.85-.46a1.35,1.35,0,0,0,1-1.24Zm-5.68,0A2.82,2.82,0,1,1,210,7.54,2.82,2.82,0,0,1,212.78,10.36Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-    <rect x="223" y="2.84" width="14" height="14" rx="2" ry="2" style="fill: #fff"/>
-    <g id="loop">
-      <path d="M254.05,7.52a5.72,5.72,0,1,1-8.7-.27l-1.62-1.62a8,8,0,1,0,11.94.26Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      <g id="play_pause-6" data-name="play/pause">
-        <g id="play-6" data-name="play">
-          <g id="Polygon-6" data-name="Polygon">
-            <path d="M251.13,4.36a.72.72,0,0,1,.85-.85l5.52.77c.54.08.67.46.28.84l-5,5c-.39.39-.77.26-.84-.28Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g id="loop_off" data-name="loop off" style="opacity: 0.5">
-      <path d="M274.21,7.77a5.72,5.72,0,1,1-8.7-.27l-1.62-1.62a8,8,0,1,0,11.94.26Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      <g id="play_pause-7" data-name="play/pause">
-        <g id="play-7" data-name="play">
-          <g id="Polygon-7" data-name="Polygon">
-            <path d="M271.29,4.61a.72.72,0,0,1,.85-.85l5.52.77c.54.08.67.46.28.84l-5,5c-.39.39-.77.26-.84-.28Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-  <g id="big_play" data-name="big play">
-    <g id="big_play_-_light" data-name="big play - light">
-      <g id="Polygon-8" data-name="Polygon" style="opacity: 0.75;isolation: isolate">
-        <path d="M60.1,78a1.06,1.06,0,0,1,0,2L29.82,97.49c-1,.55-1.73.1-1.73-1v-35c0-1.1.78-1.55,1.73-1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      </g>
-      <path id="Ellipse" d="M2.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,2.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 5px;opacity: 0.75;isolation: isolate"/>
-    </g>
-    <g id="big_play_hover" data-name="big play hover">
-      <g id="Polygon2">
-        <path d="M140.1,78a1.06,1.06,0,0,1,0,2L109.82,97.49c-1,.55-1.73.1-1.73-1v-35c0-1.1.78-1.55,1.73-1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      </g>
-      <path id="Ellipse2" d="M82.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,82.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 5px"/>
-    </g>
-    <g id="Loading">
-      <circle cx="201.88" cy="47.13" r="8.13" style="fill: #fff"/>
-      <circle cx="233.88" cy="79.01" r="5" style="fill: #fff;opacity: 0.4"/>
-      <circle cx="201.88" cy="110.88" r="6" style="fill: #fff;opacity: 0.6000000000000001"/>
-      <circle cx="170.13" cy="79.01" r="7" style="fill: #fff;opacity: 0.8"/>
-      <circle cx="178.25" cy="56.34" r="7.5" style="fill: #fff;opacity: 0.9"/>
-      <circle cx="226.33" cy="56.09" r="4.5" style="fill: #fff;opacity: 0.30000000000000004"/>
-      <circle cx="225.75" cy="102.76" r="5.5" style="fill: #fff;opacity: 0.5"/>
-      <circle cx="178.25" cy="102.76" r="6.5" style="fill: #fff;opacity: 0.7000000000000001"/>
-    </g>
-  </g>
-  <g id="Guides">
-    <g id="play_pause-8" data-name="play/pause">
-      <g id="play-8" data-name="play">
-        <g id="Polygon-9" data-name="Polygon">
-          <path d="M298.64,10.54a.79.79,0,0,1-1.1.64l-4.86-1.82c-.51-.19-.55-.58-.07-.85l6.18-3.57c.48-.27.79-.06.7.49Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        </g>
-      </g>
-    </g>
-    <path id="replay" d="M290,17.08a6.22,6.22,0,0,1-2.9-.71,5.94,5.94,0,0,1-3.2-5.24,6.11,6.11,0,0,1,11.87-1.89l.1-.15L298,10.15a8.1,8.1,0,0,0-16.12,1,7.93,7.93,0,0,0,4.26,7,8.22,8.22,0,0,0,3.83.95,8.13,8.13,0,0,0,6.57-3.32l-1.8-.93A6.14,6.14,0,0,1,290,17.08Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300.2 119.5" style="enable-background:new 0 0 300.2 119.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#131313;stroke:#414141;stroke-miterlimit:10;}
+	.st1{fill:#131313;stroke:#414141;stroke-width:1.5;stroke-linecap:round;}
+	.st2{fill:#131313;stroke:#414141;}
+	.st3{fill:none;stroke:#414141;stroke-width:2;stroke-linecap:round;}
+	.st4{fill:#131313;stroke:#414141;stroke-width:2;}
+	.st5{opacity:0.5;}
+	.st6{opacity:0.75;}
+	.st7{fill:#131313;stroke:#CE0505;stroke-miterlimit:10;}
+	.st8{opacity:0.75;fill:#131313;stroke:#CE0505;stroke-width:5;enable-background:new    ;}
+	.st9{fill:#131313;stroke:#CE0505;stroke-width:5;}
+	.st10{opacity:0.4;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+	.st11{opacity:0.6;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+	.st12{opacity:0.8;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+	.st13{opacity:0.9;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+	.st14{opacity:0.3;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+	.st15{opacity:0.5;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+	.st16{opacity:0.7;fill:#131313;stroke:#CE0505;stroke-miterlimit:10;enable-background:new    ;}
+</style>
+<title>controls</title>
+<g id="play_pause">
+	<g id="play">
+		<g id="Polygon">
+			<path class="st0" d="M16.8,9.3c0.3,0.1,0.4,0.4,0.3,0.7c0,0,0,0.1-0.1,0.1c-0.1,0.1-0.1,0.2-0.2,0.2l-11.4,7
+				c-0.5,0.3-0.8,0.1-0.8-0.5v-14c0-0.5,0.4-0.8,0.8-0.5L16.8,9.3z"/>
+		</g>
+	</g>
+</g>
+<g id="pause">
+	<path class="st0" d="M24.3,1.8h2.2c0.5,0,1,0.4,1,0.9c0,0,0,0.1,0,0.1v14c0,0.5-0.4,1-0.9,1c0,0-0.1,0-0.1,0h-2.2
+		c-0.5,0-1-0.4-1-0.9c0,0,0-0.1,0-0.1v-14C23.3,2.3,23.8,1.8,24.3,1.8z"/>
+	<path class="st0" d="M34.1,1.8h2.2c0.5,0,1,0.4,1,0.9c0,0,0,0.1,0,0.1v14c0,0.5-0.4,1-0.9,1c0,0-0.1,0-0.1,0h-2.2
+		c-0.5,0-1-0.4-1-0.9c0,0,0-0.1,0-0.1v-14C33.1,2.3,33.6,1.8,34.1,1.8z"/>
+</g>
+<g id="fullscreen">
+	<g id="enter">
+		<path class="st0" d="M81.2,2.2c0-0.5,0.4-1,0.9-1c0,0,0.1,0,0.1,0h5.4c0.6,0,0.7,0.3,0.3,0.7l-6,6c-0.4,0.4-0.7,0.3-0.7-0.3
+			L81.2,2.2z"/>
+		<path class="st0" d="M81.2,18c0,0.5,0.4,1,0.9,1c0,0,0.1,0,0.1,0h5.4c0.6,0,0.7-0.3,0.3-0.7l-6-6c-0.4-0.4-0.7-0.3-0.7,0.3
+			L81.2,18z"/>
+		<path class="st0" d="M98.9,2.2c0-0.5-0.4-1-0.9-1c0,0-0.1,0-0.1,0h-5.4c-0.6,0-0.7,0.3-0.3,0.7l6,6c0.4,0.4,0.7,0.3,0.7-0.3
+			L98.9,2.2z"/>
+		<path class="st0" d="M98.9,18c0,0.5-0.4,1-0.9,1c0,0-0.1,0-0.1,0h-5.4c-0.6,0-0.7-0.3-0.3-0.7l6-6c0.4-0.4,0.7-0.3,0.7,0.3
+			L98.9,18z"/>
+	</g>
+</g>
+<g id="exit">
+	<path class="st0" d="M112.8,5.8c0,0.5,0.4,1,0.9,1c0,0,0.1,0,0.1,0h4.1c0.6,0,0.7-0.3,0.3-0.7l-4.7-4.7c-0.4-0.4-0.7-0.3-0.7,0.3
+		L112.8,5.8z"/>
+	<path class="st0" d="M105.7,6.8c0.5,0,1-0.4,1-0.9c0,0,0-0.1,0-0.1V1.7c0-0.6-0.3-0.7-0.7-0.3l-4.7,4.7c-0.4,0.4-0.3,0.7,0.3,0.7
+		L105.7,6.8z"/>
+	<path class="st0" d="M106.7,13.9c0-0.5-0.4-1-0.9-1c0,0-0.1,0-0.1,0h-4.1c-0.6,0-0.7,0.3-0.3,0.7l4.7,4.7c0.4,0.4,0.7,0.3,0.7-0.3
+		L106.7,13.9z"/>
+	<path class="st0" d="M113.8,12.9c-0.5,0-1,0.4-1,0.9c0,0,0,0.1,0,0.1V18c0,0.5,0.3,0.7,0.7,0.3l4.7-4.7c0.4-0.4,0.3-0.7-0.3-0.7
+		H113.8z"/>
+</g>
+<g id="volume">
+	<path class="st0" d="M67.2,6.6c-0.5,0.4-1.1,0.6-1.8,0.6h-3.2c-0.5,0-1,0.4-1,0.9c0,0,0,0.1,0,0.1v5.7c0,0.5,0.4,1,0.9,1
+		c0,0,0.1,0,0.1,0h4.2c0.3,0.2,0.5,0.4,0.8,0.6l3.5,2.6c0.2,0.2,0.5,0.2,0.7,0c0.1-0.1,0.2-0.3,0.1-0.4V4.3c0-0.3-0.1-0.5-0.4-0.5
+		c-0.1,0-0.3,0-0.4,0.1L67.2,6.6z"/>
+	<g id="volume-2">
+		<g id="soundbars">
+			<path class="st1" d="M74.1,3.3c0,0,3.9-0.8,3.9,7.7s-3.9,7.8-3.9,7.8"/>
+			<path class="st1" d="M72.8,7.2c0,0,2.6-0.4,2.6,3.8s-2.6,3.9-2.6,3.9"/>
+		</g>
+	</g>
+</g>
+<g id="closed_captions">
+	<path class="st2" d="M128.8,9.4c-6.2-4.2-6.5,7.8,0,3.9"/>
+	<path class="st2" d="M135.2,9.4c-6.2-4.2-6.5,7.8,0,3.9"/>
+	<path class="st0" d="M122.3,4.2h15.7v13.1h-15.7V4.2z M120.9,2.8v15.7h18.3V2.8H120.9z"/>
+</g>
+<g id="muted">
+	<path class="st0" d="M47.3,6.6c-0.5,0.4-1.1,0.6-1.8,0.6h-3.2c-0.5,0-1,0.4-1,0.9c0,0,0,0.1,0,0.1v5.7c0,0.5,0.4,1,0.9,1
+		c0,0,0.1,0,0.1,0h4.2c0.3,0.2,0.5,0.4,0.8,0.6l3.5,2.6c0.2,0.2,0.5,0.2,0.7,0c0.1-0.1,0.2-0.3,0.1-0.4V4.3c0-0.3-0.1-0.5-0.4-0.5
+		c-0.1,0-0.3,0-0.4,0.1L47.3,6.6z"/>
+	<line class="st3" x1="53.1" y1="7.8" x2="58.4" y2="13.2"/>
+	<line class="st3" x1="53.1" y1="13.2" x2="58.4" y2="7.8"/>
+</g>
+<g id="skip_forward">
+	<g id="play_pause-2">
+		<g id="play-2">
+			<path id="Polygon-2" class="st0" d="M192.1,3l-4.3,2.2V0.8L192.1,3z"/>
+		</g>
+	</g>
+	<g id="play_pause-3">
+		<g id="play-3">
+			<path id="Polygon-3" class="st0" d="M194.8,3l-4.3,2.2V0.8L194.8,3z"/>
+		</g>
+	</g>
+	<path class="st4" d="M189.9,3c-4.5,0-8.2,3.6-8.2,8.1c0,0,0,0,0,0l0,0"/>
+	<path class="st4" d="M181.7,10.6c0,4.5,3.6,8.2,8.1,8.2c0,0,0,0,0,0l0,0"/>
+	<path class="st4" d="M189.5,18.8c4.5,0,8.2-3.6,8.2-8.1c0,0,0,0,0,0l0,0"/>
+</g>
+<g id="skipback">
+	<path class="st4" d="M162.7,10.5c0,4.5,3.6,8.2,8.1,8.2c0,0,0,0,0,0l0,0"/>
+	<path class="st4" d="M170.4,18.6c4.5,0,8.2-3.6,8.2-8.1c0,0,0,0,0,0l0,0"/>
+	<path class="st4" d="M178.4,10.8c0-4.5-3.6-8.2-8.1-8.2c0,0,0,0,0,0l0,0"/>
+	<g id="play_pause-4">
+		<g id="play-4">
+			<path id="Polygon-4" class="st0" d="M166.6,3l4.3,2.2V0.8L166.6,3z"/>
+		</g>
+	</g>
+	<g id="play_pause-5">
+		<g id="play-5">
+			<path id="Polygon-5" class="st0" d="M163.9,3l4.3,2.2V0.8L163.9,3z"/>
+		</g>
+	</g>
+</g>
+<g id="close_captions">
+	<path class="st0" d="M143.2,3.8h14c1.1,0,2,0.9,2,2v10c0,1.1-0.9,2-2,2h-14c-1.1,0-2-0.9-2-2v-10C141.2,4.7,142.1,3.8,143.2,3.8z"
+		/>
+	<path class="st0" d="M146.4,14.6c-0.8,0-1.6-0.4-2.1-1c-1.1-1.4-1-3.4,0.1-4.8c0.5-0.6,2-1.7,4.6,0.2l-0.6,0.8
+		c-1.4-1-2.6-1.1-3.3-0.3c-0.8,1-0.8,2.4-0.1,3.5c0.7,0.9,1.9,0.8,3.4-0.1l0.5,0.9C148.2,14.3,147.3,14.5,146.4,14.6z"/>
+	<path class="st0" d="M153.9,14.6c-0.8,0-1.6-0.4-2.1-1c-1.1-1.4-1-3.4,0.1-4.8c0.5-0.6,2-1.7,4.6,0.2L156,9.8
+		c-1.4-1-2.6-1.1-3.3-0.3c-0.8,1-0.8,2.4-0.1,3.5c0.7,0.9,1.9,0.8,3.4-0.1l0.5,0.9C155.7,14.2,154.8,14.5,153.9,14.6z"/>
+</g>
+<path class="st0" d="M218.4,10.2c0-0.6-0.4-1.1-1-1.2l-1.9-0.5c-0.4-0.1-0.6-0.4-0.6-0.8c0-0.1,0.1-0.2,0.1-0.3l1-1.6
+	c0.3-0.5,0.2-1.1-0.1-1.6l0,0c-0.4-0.4-1.1-0.5-1.6-0.2l-1.6,1c-0.3,0.2-0.7,0.2-1-0.1c0,0,0,0,0-0.1c-0.1-0.1-0.1-0.2-0.1-0.3
+	l-0.5-1.8c-0.1-0.6-0.6-1-1.2-1l0,0c-0.6,0-1.1,0.4-1.2,1l-0.5,1.8c-0.1,0.4-0.4,0.6-0.8,0.6c-0.1,0-0.2-0.1-0.3-0.1l-1.6-1
+	c-0.5-0.3-1.2-0.2-1.6,0.2l0,0c-0.4,0.4-0.5,1.1-0.2,1.6l1,1.6c0.2,0.3,0.2,0.7-0.1,1c0,0,0,0-0.1,0c-0.1,0.1-0.2,0.1-0.3,0.1
+	L202.4,9c-0.6,0.1-1,0.6-1,1.2l0,0c0,0.6,0.4,1.1,1,1.2l1.9,0.5c0.4,0.1,0.6,0.4,0.6,0.8c0,0.1-0.1,0.2-0.1,0.3l-1,1.6
+	c-0.3,0.5-0.2,1.2,0.2,1.6l0,0c0.4,0.4,1.1,0.5,1.6,0.2l1.6-1c0.3-0.2,0.7-0.2,1,0.1c0,0,0,0,0,0.1c0.1,0.1,0.1,0.2,0.1,0.3l0.5,1.9
+	c0.1,0.6,0.6,1,1.2,1l0,0c0.6,0,1.1-0.4,1.2-1l0.5-1.9c0.1-0.4,0.4-0.6,0.8-0.6c0.1,0,0.2,0.1,0.3,0.1l1.6,1
+	c0.5,0.3,1.2,0.2,1.6-0.2l0,0c0.4-0.4,0.5-1.1,0.2-1.6l-1-1.6c-0.2-0.3-0.2-0.7,0.1-1c0,0,0,0,0.1,0c0.1-0.1,0.2-0.1,0.3-0.1
+	l1.9-0.5C218.1,11.3,218.5,10.8,218.4,10.2L218.4,10.2z M212.9,10.2c0,1.5-1.3,2.8-2.8,2.8l0,0c-1.5,0-2.8-1.3-2.8-2.8
+	c0-1.5,1.3-2.8,2.8-2.8l0,0l0,0C211.6,7.4,212.9,8.7,212.9,10.2C212.9,10.2,212.9,10.2,212.9,10.2z"/>
+<path class="st0" d="M224.8,3.6h10c1.1,0,2,0.9,2,2l0,0v10c0,1.1-0.9,2-2,2h-10c-1.1,0-2-0.9-2-2v-10C222.8,4.5,223.7,3.6,224.8,3.6
+	L224.8,3.6z"/>
+<g id="loop">
+	<path class="st0" d="M253.9,7.3c2,2.4,1.6,5.9-0.8,7.9c0,0-0.1,0.1-0.1,0.1c-2.4,2-5.9,1.6-7.9-0.8c0,0-0.1-0.1-0.1-0.1
+		c-1.8-2.2-1.7-5.3,0.2-7.4l-1.6-1.6c-3.1,3.1-3.1,8.2,0,11.3s8.2,3.1,11.3,0c0.1-0.1,0.3-0.3,0.4-0.4c2.8-2.9,2.9-7.5,0.2-10.6
+		L253.9,7.3z"/>
+	<g id="play_pause-6">
+		<g id="play-6">
+			<g id="Polygon-6">
+				<path class="st0" d="M251.1,4.2c-0.1-0.4,0.2-0.8,0.6-0.9h0.3l5.5,0.8c0.5,0.1,0.7,0.5,0.3,0.8l-5,5c-0.4,0.4-0.8,0.3-0.8-0.3
+					L251.1,4.2z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="loop_off" class="st5">
+	<path class="st0" d="M274.1,7.6c2,2.4,1.6,5.9-0.8,7.9c0,0-0.1,0.1-0.1,0.1c-2.5,2-6,1.5-8-0.9c-1.8-2.2-1.7-5.3,0.2-7.4l-1.6-1.6
+		c-3.1,3.1-3.1,8.2,0,11.3c3.1,3.1,8.2,3.1,11.3,0c0.1-0.1,0.3-0.3,0.4-0.4c2.8-2.9,2.9-7.5,0.2-10.6L274.1,7.6z"/>
+	<g id="play_pause-7">
+		<g id="play-7">
+			<g id="Polygon-7">
+				<path class="st0" d="M271.2,4.4c-0.1-0.4,0.2-0.8,0.6-0.9h0.3l5.5,0.8c0.5,0.1,0.7,0.5,0.3,0.8l-5,5c-0.4,0.4-0.8,0.3-0.8-0.3
+					L271.2,4.4z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="big_play_-_light">
+	<g id="Polygon-8" class="st6">
+		<path class="st7" d="M79.8,68.5c0.5,0.2,0.8,0.7,0.7,1.2c0,0.1,0,0.1-0.1,0.1c-0.1,0.3-0.3,0.5-0.6,0.6L49.6,87.9
+			c-1,0.6-1.7,0.1-1.7-1V52c0-1.1,0.8-1.5,1.7-1L79.8,68.5z"/>
+	</g>
+	<path id="Ellipse" class="st8" d="M22.2,70.5c0-20.7,16.7-37.4,37.4-37.4S97,49.8,97,70.5s-16.7,37.4-37.4,37.4
+		C38.9,107.9,22.2,91.1,22.2,70.5z"/>
+</g>
+<g id="big_play_hover">
+	<path id="Ellipse2" class="st9" d="M121.6,70.5c0-20.7,16.7-37.4,37.4-37.4s37.4,16.7,37.4,37.4s-16.7,37.4-37.4,37.4
+		C138.4,107.9,121.6,91.1,121.6,70.5z"/>
+	<g id="Polygon2">
+		<path class="st7" d="M179.3,68.5c0.5,0.2,0.8,0.7,0.7,1.2c0,0.1,0,0.1-0.1,0.1c-0.1,0.3-0.3,0.5-0.6,0.6l-30.2,17.5
+			c-1,0.6-1.7,0.1-1.7-1V52c0-1.1,0.8-1.5,1.7-1L179.3,68.5z"/>
+	</g>
+</g>
+<g id="Loading">
+	<circle class="st7" cx="245.7" cy="41.1" r="8.1"/>
+	<circle class="st10" cx="277.6" cy="73" r="5"/>
+	<circle class="st11" cx="245.7" cy="104.8" r="6"/>
+	<circle class="st12" cx="214" cy="73" r="7"/>
+	<circle class="st13" cx="222.1" cy="50.3" r="7.5"/>
+	<circle class="st14" cx="270" cy="50.1" r="4.5"/>
+	<circle class="st15" cx="269.5" cy="96.7" r="5.5"/>
+	<circle class="st16" cx="222.1" cy="96.7" r="6.5"/>
+</g>
+<g id="play_pause-8">
+	<g id="play-8">
+		<g id="Polygon-9">
+			<path class="st0" d="M298.4,10.4c-0.1,0.4-0.5,0.8-0.9,0.7c-0.1,0-0.2,0-0.2-0.1l-4.9-1.8C292,9,292,8.6,292.4,8.3l6.3-3.5
+				c0.5-0.3,0.8-0.1,0.7,0.5L298.4,10.4z"/>
+		</g>
+	</g>
+</g>
+<path id="replay" class="st0" d="M289.9,16.9c-1,0-2-0.2-2.9-0.7c-2-1-3.2-3-3.2-5.2c0.1-3.4,2.9-6,6.3-6c2.5,0.1,4.7,1.7,5.6,4.1
+	l0.1-0.1l2.1,1.1c-0.6-4.4-4.7-7.5-9.1-6.9c-3.9,0.6-6.9,3.9-7,7.9c0,2.9,1.7,5.6,4.3,7c1.2,0.6,2.5,0.9,3.8,1c2.6,0,5-1.2,6.6-3.3
+	l-1.8-0.9C293.4,16.1,291.6,16.8,289.9,16.9z"/>
 </svg>

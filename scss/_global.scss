@@ -1,22 +1,25 @@
 // Global Stylesheet
-
 // Color Palette
 $primary-color: gold;
 $secondary-color: purple;
-
 // Typography
-
 // Video Player Styling
 video {
     max-width: 100%;
     width: 100%;
 }
+
 .mejs__container {
-background-image: url(img/bloodspatterBackground.jpg) ;
+    background-image: url(img/bloodspatterBackground.jpg);
     background-size: 120% 140%;
     background-position: center;
-
-    
-    font-family: "fantasy;", Arial, serif; 
-        
 }
+
+
+h1 {
+    font-family: 'Nosifer', cursive;
+    text-align: center;
+    font-size: 90px;
+    color: darkred;
+}
+

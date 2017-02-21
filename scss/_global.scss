@@ -9,11 +9,6 @@ video {
     width: 100%;
 }
 
-.mejs__container {
-    background-image: url(img/bloodspatterBackground.jpg);
-    background-size: 90% 110% auto;
-    background-position: center;
-}
 
 
 h1 {
@@ -38,4 +33,13 @@ li {
 
 main {
     background: grey;
+    
+}
+
+.mejs__container {
+    background:  url(img/bloodspatterBackground.jpg);
+    background-size: 135% 140% ;
+    background-repeat: no-repeat;
+    background-position: center ;
+    
 }

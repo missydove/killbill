@@ -14,7 +14,7 @@ video {
 h1 {
     font-family: 'Nosifer', cursive;
     text-align: center;
-    font-size: 90px;
+    font-size: 150px;
     color: darkred;
 }
 
@@ -52,10 +52,7 @@ a {
     
 }
 
-main {
-    background: grey;
-    
-}
+
 
 .mejs__container {
     background:  url(img/bloodspatterBackground.jpg);
@@ -63,4 +60,8 @@ main {
     background-repeat: no-repeat;
     background-position: center ;
     
+}
+
+body {
+    background: #ffdf22;
 }

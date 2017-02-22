@@ -30,12 +30,16 @@ li {
 //buttons
 img {
     width: 50px;
+    margin: 0 10px 0 0;
 }
 
 a {
     margin: 60px;
     color: firebrick;
     border: 12px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
 }
 
 a:visited {

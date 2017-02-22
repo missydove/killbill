@@ -9,50 +9,39 @@ video {
     width: 100%;
 }
 
-
-
 h1 {
     font-family: 'Nosifer', cursive;
     text-align: center;
-    font-size: 150px;
+    font-size: 140px;
     color: darkred;
 }
 
-ul { 
+ul {
     list-style-type: none;
-    
-    
-    
 }
 
 li {
-     text-decoration: none;
+    text-decoration: none;
     font-family: 'Walter Turncoat', cursive;
-    font-size: 70px;
-
-
-   margin-top: 90px;
-
+    font-size: 2em;
+    margin-top: 60px;
 }
 
 //buttons
-
 img {
-    width: 80px;
-
-   
-  
+    width: 50px;
 }
 
 a {
     margin: 60px;
     color: firebrick;
-    border: 40px;
-
+    border: 12px;
 }
+
 a:visited {
     color: black;
- }
+}
+
 a:link {
     color: red;
 }
@@ -66,19 +55,19 @@ a:active {
 }
 
 .mejs__container {
-    background:  url(img/bloodspatterBackground.jpg);
-    background-size: 135% 140% ;
+    background: url(img/bloodspatterBackground.jpg);
+    background-size: 135% 140%;
     background-repeat: no-repeat;
-    background-position: center ;
-    
+    background-position: center;
 }
 
 body {
     background: #ffdf22;
 }
+
 p {
     font-family: swanky and moo moo;
-    font-size: 90px;
+    font-size: 2em;
 }
 
 .mejs__time {
@@ -86,15 +75,12 @@ p {
     font-size: 43px;
 }
 
- .mejs__time-loaded {
+.mejs__time-loaded {
     height: 40px;
     color: firebrick;
-    
 }
 
 .mejs__time-current {
     background: rgba(158, 18, 18, 0.9);
     height: 40px;
-    
 }
-

@@ -6,16 +6,11 @@
        display: block;
     }
     
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Mobile Size";
-  }
-    
+
 }
 
 /* Tablet:  768px = 160em */
-@media screen and (min-width: 48em)  {
+@media screen and (min-width: 48em)  
     
     
     // RWD Grid
@@ -30,23 +25,7 @@
         width: 50%;
     }
     
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       
-  }
 
-}
 
 /* Desktop: 1280px = 80em */
-@media screen and (min-width: 80em) { 
-    
-    
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-  
-  }
-
-}
-
+@media screen and (min-width: 80em)

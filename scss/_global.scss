@@ -71,8 +71,8 @@ p {
 }
 
 .mejs__time {
-    color: #191717;
-    font-size: 43px;
+    color: yellow;
+    font-size: 20px;
 }
 
 .mejs__time-loaded {
@@ -83,4 +83,11 @@ p {
 .mejs__time-current {
     background: rgba(158, 18, 18, 0.9);
     height: 40px;
+}
+
+//volume handle
+
+mejs__volume-handle {
+    
+    background: red;
 }

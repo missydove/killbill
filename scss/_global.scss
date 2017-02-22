@@ -29,7 +29,9 @@ li {
      text-decoration: none;
     font-family: 'Walter Turncoat', cursive;
     font-size: 70px;
-    justify-content: space-around;
+
+
+   margin-top: 90px;
 
 }
 
@@ -43,16 +45,25 @@ img {
 }
 
 a {
-    margin: 50px;
+    margin: 60px;
+    color: firebrick;
+    border: 40px;
 
-    
- 
-    
-   
-    
+}
+a:visited {
+    color: black;
+ }
+a:link {
+    color: red;
 }
 
+a:hover {
+    color: darkred;
+}
 
+a:active {
+    color: goldenrod;
+}
 
 .mejs__container {
     background:  url(img/bloodspatterBackground.jpg);
@@ -65,3 +76,25 @@ a {
 body {
     background: #ffdf22;
 }
+p {
+    font-family: swanky and moo moo;
+    font-size: 90px;
+}
+
+.mejs__time {
+    color: #191717;
+    font-size: 43px;
+}
+
+ .mejs__time-loaded {
+    height: 40px;
+    color: firebrick;
+    
+}
+
+.mejs__time-current {
+    background: rgba(158, 18, 18, 0.9);
+    height: 40px;
+    
+}
+
